@@ -1,0 +1,15 @@
+todo list
+
+- add google maps api calls for distance
+- begin discord api integration:
+  - 1 Start with just putting rides lists into discord
+  - 2 Server specific user config, so that individual members can set name, address
+  - 3 O shoot I think imma have to add a name field in the human class too
+  - 4 Then set up the reaction feature in order to set up rides based on server profiles
+      - Server profile will need:
+      - Storage of the discord id, the name, driver/rider status, if driver, capacity, address
+  - 5 Then set up the actual command function: in order to set either unified start, unified drop off, or dist pick up, dist drop off
+  - 6 Also add command in order for people to select whether or not they will be driving
+  - 7 Also add command for custom car:
+      - eg we're all leaving large group, can pick a car to get into through reactions
+
