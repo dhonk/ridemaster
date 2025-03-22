@@ -1,5 +1,8 @@
 todo list
 
+- CHANGE TO CLARKE WRIGHT
+    issue is that nearest neighbor doesn't actually produce optimal routes
+    problem will always be a single depot problem: either everyone will be departing from one point to another singular points, (depot to depot), or will be picked up from home to one location (treat destination as depot), or will be leaving one location to be taken home (single depot)
 - add google maps api calls for distance
 - begin discord api integration:
   - 1 Start with just putting rides lists into discord
